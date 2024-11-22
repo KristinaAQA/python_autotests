@@ -28,7 +28,7 @@
 2. Используется библиотека Requests
 3. Параметризированные тесты с использованием декоратора
 
-![image]()
+![image](https://github.com/KristinaAQA/python_autotests/blob/main/Python-Pytest-Requests.png)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
